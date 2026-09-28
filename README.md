@@ -42,4 +42,5 @@ Where:
 
 ---
 
-## MODEL GRAPH
+## RESULT
+<img width="472" height="611" alt="image" src="https://github.com/user-attachments/assets/cd1a5de9-8556-4c5c-8c7e-c6ebba874895" />
